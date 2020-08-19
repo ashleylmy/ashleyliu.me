@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31ca0a45-fee8-48b0-9270-58683c2d8172" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gFsyU56D0CF9bEmg8Czy2Yi2xV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31ca0a45-fee8-48b0-9270-58683c2d8172" name="Default Changelist" comment="" />
+      <created>1597721928090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597721928090</updated>
+      <workItem from="1597721929377" duration="346000" />
+      <workItem from="1597722289169" duration="33894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="268" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597738680255">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="213" y="268" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1597738680255" />
+    <state x="365" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1597770334814">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="365" y="175" width="1022" height="737" key="SettingsEditor/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1597770334814" />
+    <state x="570" y="133" width="770" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597773283776">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="570" y="133" width="770" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1597773283776" />
+  </component>
+</project>
